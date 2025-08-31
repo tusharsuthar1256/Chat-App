@@ -1,7 +1,7 @@
 # 💬 Real-Time Chat App (MERN + Socket.IO)
 
-This is a **real-time chat application** built using the **MERN stack (MongoDB, Express, React, Node.js)** and **Socket.IO**.  
-The main goal of this project was to **learn and explore Socket.IO** for real-time communication.
+A **real-time chat application** built with the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO**.  
+This project was mainly created to **learn and explore Socket.IO** for real-time communication.
 
 ---
 
@@ -10,30 +10,54 @@ The main goal of this project was to **learn and explore Socket.IO** for real-ti
 - 👥 Real-time messaging with **Socket.IO**
 - 💬 One-to-one chat
 - 📡 Online/offline user status
-- 📷 Media/file(only images) sharing support
-- 🎨 Responsive UI (React + Tailwind/Custom CSS)
+- 🎨 Responsive UI (React + Tailwind CSS)
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React.js, Context API / Redux, Axios, Tailwind CSS  
+**Frontend:** React.js (Vite), Context API/Store, Axios, Tailwind CSS  
 **Backend:** Node.js, Express.js, MongoDB, Socket.IO  
-**Database:** MongoDB Atlas
+**Database:** MongoDB Atlas 
 **Authentication:** JWT + Cookies  
 
 ---
 
 ## 📂 Project Structure
+
 ```bash
-chat-app/
-│── backend/         # Express + Socket.IO server
+CHAT APP/
+│── backend/
+│   ├── node_modules/
 │   ├── src/
-│   │   ├── models/  # Mongoose models
-│   │   ├── routes/  # API routes
-│   │   ├── index.js # Entry point
-│── frontend/        # React client
+│   │   ├── controllers/   # Controller logic
+│   │   ├── lib/           # Helper functions
+│   │   ├── middleware/    # Middlewares (e.g. protectRoute)
+│   │   ├── models/        # Mongoose models
+│   │   ├── routes/        # API routes
+│   │   ├── seeds/         # DB seeding (optional)
+│   │   └── index.js       # Server entry point
+│   ├── .env               # Environment variables
+│   ├── package.json
+│   └── package-lock.json
+│
+│── frontend/
+│   ├── node_modules/
+│   ├── public/
 │   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
+│   │   ├── components/    # Reusable UI components
+│   │   ├── constants/     # App constants
+│   │   ├── lib/           # Utility functions
+│   │   ├── pages/         # Pages (Login, Chat, etc.)
+│   │   ├── store/         # State management
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── .env               # Frontend environment vars
+│   ├── index.html
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── vite.config.js
+│   └── eslint.config.js
+│
 │── README.md
