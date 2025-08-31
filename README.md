@@ -10,7 +10,7 @@ The main goal of this project was to **learn and explore Socket.IO** for real-ti
 - 👥 Real-time messaging with **Socket.IO**
 - 💬 One-to-one chat
 - 📡 Online/offline user status
-- 📷 (Optional) Media/file sharing support
+- 📷 Media/file(only images) sharing support
 - 🎨 Responsive UI (React + Tailwind/Custom CSS)
 
 ---
@@ -18,7 +18,7 @@ The main goal of this project was to **learn and explore Socket.IO** for real-ti
 ## 🛠️ Tech Stack
 **Frontend:** React.js, Context API / Redux, Axios, Tailwind CSS  
 **Backend:** Node.js, Express.js, MongoDB, Socket.IO  
-**Database:** MongoDB Atlas / Local MongoDB  
+**Database:** MongoDB Atlas
 **Authentication:** JWT + Cookies  
 
 ---
