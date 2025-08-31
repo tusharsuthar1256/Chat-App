@@ -73,8 +73,8 @@ CHAT APP/
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
+git clone https://github.com/tusharsuthar1256/Chat-App.git
+cd Chat-App
 ```
 
 ### 2️⃣ Backend Setup
@@ -148,8 +148,8 @@ Feel free to fork this repo and submit a pull request.
 👤 **Tushar Suthar**
 
 * GitHub: [tusharsuthar1256](https://github.com/tusharsuthar1256)
-* LinkedIn: [Tushar Suthar](https://in.linkedin.com/in/tushar-suthar-469163260)
-* X (Twitter): [@TusharS08423915](https://twitter.com/TusharS08423915)
+* LinkedIn: [Tushar Suthar](https://www.linkedin.com/in/tushar-suthar-469163260)
+* X (Twitter): [@TusharS08423915](https://x.com/TusharS08423915)
 
 ```
 
