@@ -151,5 +151,3 @@ Feel free to fork this repo and submit a pull request.
 * LinkedIn: [Tushar Suthar](https://www.linkedin.com/in/tushar-suthar-469163260)
 * X (Twitter): [@TusharS08423915](https://x.com/TusharS08423915)
 
-```
-
