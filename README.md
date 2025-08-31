@@ -88,9 +88,13 @@ npm start
 Create a `.env` file inside `backend/`:
 
 ```env
+NODE_ENV=development
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_secret_key
 PORT=5000
+CLOUDINARY_CLOUD_NAME=cloud_name
+CLOUDINARY_API_KEY=api_key
+CLOUDINARY_API_SECRET=secret_key
 ```
 
 ### 3️⃣ Frontend Setup
@@ -101,11 +105,6 @@ npm install
 npm run dev
 ```
 
-Create a `.env` file inside `frontend/`:
-
-```env
-VITE_BACKEND_URL=http://localhost:5000
-```
 
 ---
 
@@ -114,8 +113,20 @@ VITE_BACKEND_URL=http://localhost:5000
 (Add your app screenshots here)
 
 * Login Page
+* <img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/c88465c9-69d1-4391-abc7-6fbf3eb999fb" />
+
+*Signup Page
+<img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/12581b2e-0d43-4d0b-b135-b95ef3450e8f" />
+
 * Chat Dashboard
-* Real-time Messaging
+* <img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/8453dd09-ad72-4d4a-897e-0454d6241039" />
+
+* Profile Page
+* <img width="1733" height="1012" alt="image" src="https://github.com/user-attachments/assets/3bc54b0a-b843-441c-8ad1-66fcc670fe75" />
+
+* Theme Changer
+* <img width="1733" height="1066" alt="image" src="https://github.com/user-attachments/assets/1426085c-5554-436a-9f9b-4e4ee321b969" />
+
 
 ---
 
@@ -142,7 +153,3 @@ Feel free to fork this repo and submit a pull request.
 
 ```
 
----
-
-Would you like me to also add a **Demo GIF/Preview section** at the top (so visitors see the app in action immediately)?
-```
