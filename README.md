@@ -113,19 +113,19 @@ npm run dev
 (Add your app screenshots here)
 
 * Login Page
-* <img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/c88465c9-69d1-4391-abc7-6fbf3eb999fb" />
+<img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/05aa5cc0-2edf-4f37-bc16-e91bf37d4f82" />
 
 *Signup Page
-<img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/12581b2e-0d43-4d0b-b135-b95ef3450e8f" />
+<img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/5346161d-6375-4012-84b9-fb6bae6d8fd8" />
 
 * Chat Dashboard
-* <img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/8453dd09-ad72-4d4a-897e-0454d6241039" />
+<img width="1733" height="835" alt="image" src="https://github.com/user-attachments/assets/8453dd09-ad72-4d4a-897e-0454d6241039" />
 
 * Profile Page
-* <img width="1733" height="1012" alt="image" src="https://github.com/user-attachments/assets/3bc54b0a-b843-441c-8ad1-66fcc670fe75" />
+<img width="1733" height="1012" alt="image" src="https://github.com/user-attachments/assets/3bc54b0a-b843-441c-8ad1-66fcc670fe75" />
 
 * Theme Changer
-* <img width="1733" height="1066" alt="image" src="https://github.com/user-attachments/assets/1426085c-5554-436a-9f9b-4e4ee321b969" />
+<img width="1733" height="1066" alt="image" src="https://github.com/user-attachments/assets/1426085c-5554-436a-9f9b-4e4ee321b969" />
 
 
 ---
