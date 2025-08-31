@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 💬 Real-Time Chat App (MERN + Socket.IO)
 
 A **real-time chat application** built with the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO**.  
