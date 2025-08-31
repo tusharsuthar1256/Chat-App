@@ -61,3 +61,60 @@ CHAT APP/
 │   └── eslint.config.js
 │
 │── README.md
+
+
+⚡ Installation & Setup
+1️⃣ Clone the repo
+git clone https://github.com/your-username/chat-app.git
+cd chat-app
+
+2️⃣ Backend Setup
+cd backend
+npm install
+npm start
+
+
+Create a .env file inside backend/:
+
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret_key
+PORT=5000
+
+3️⃣ Frontend Setup
+cd frontend
+npm install
+npm run dev
+
+
+Create a .env file inside frontend/:
+
+VITE_BACKEND_URL=http://localhost:5000
+
+📸 Screenshots
+
+(Add your app screenshots here)
+
+Login Page
+
+Chat Dashboard
+
+Real-time Messaging
+
+🎯 Learning Purpose
+
+This project was mainly created to practice and understand Socket.IO with the MERN stack and see how real-time communication works in web applications.
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+📬 Contact
+
+👤 Tushar Suthar
+
+GitHub: tusharsuthar1256
+
+LinkedIn: Tushar Suthar
+
+X (Twitter): @TusharS08423915
